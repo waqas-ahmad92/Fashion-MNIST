@@ -6,7 +6,8 @@ Custom made model, trained on Fashion MNIST dataset. Best hyperparameters found 
 
 ## Model architecture
 
-![Model Architecture]('export.png')
+![Uploading export.png…]()
+
 
 
 ## Model Results
